@@ -6,7 +6,7 @@
 The project is structured as follows:
 
   * the _src_ directory for source files.
-  * the _sqltests_ directory for the test queries, database file, expected input and output directory.
+  * the _tests_ directory for the test queries, database file, expected input and output directory.
 
 For packages for the project source file is arranged by the following rational:
 
